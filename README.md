@@ -1,6 +1,6 @@
 # product-service
 
-Product catalog for the [ar-ecommerce-platform](https://github.com/ar-ecommerce-platform).
+Product catalog for the [ar-ecommerce-backend](https://github.com/ar-ecommerce-backend).
 
 - **Port:** 8083
 - **Persistence:** `products` table, seeded with 5 demo products (ids 1..5) on startup. Dev: in-memory H2. `prod`: PostgreSQL + Flyway.
